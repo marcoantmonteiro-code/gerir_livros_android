@@ -1,0 +1,9 @@
+Dados de utilizador
+
+Administrador:
+username:admin
+password:1234
+
+Comum:
+username:joao10
+password:1234
